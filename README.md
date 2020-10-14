@@ -1,6 +1,6 @@
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
-Parte del tuto donde voy: https://youtu.be/ujbE0mzX-CU?t=2530
+Parte del tuto donde voy: https://youtu.be/ujbE0mzX-CU?t=3846
 ---
 
 # svelte app
